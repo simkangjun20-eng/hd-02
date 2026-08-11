@@ -1,2 +1,2 @@
 # hd-02
-hd-02 my way
+hd-02 my way  (sample) ccs, JS index
